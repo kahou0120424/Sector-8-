@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Darchangel",
+			"Path": "C:\\Users\\PC\\Desktop\\Darchangel\\Darchangel\\Source\\Darchangel.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DarchangelEditor",
+			"Path": "C:\\Users\\PC\\Desktop\\Darchangel\\Darchangel\\Source\\DarchangelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
